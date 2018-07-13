@@ -1,0 +1,6 @@
+{ 
+
+  "App": "http://ec2-18-216-222-192.us-east-2.compute.amazonaws.com:8080/App",
+  "Header": "http://ec2-18-209-22-83.compute-1.amazonaws.com/app",
+  "ReviewComponent": "http://18.191.180.173:8080/app"
+}
